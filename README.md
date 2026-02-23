@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dymoob (TechPanda)
 
-🎯 Transitioning into Data & AI using Microsoft Azure  
+🎯 Aspiring Data Analyst focused on Visualization & Azure AI 
 📊 Focus: Data Analysis, Visualization & AI Fundamentals  
 💻 Learning: C#, Python, Power BI, Azure
 
@@ -12,6 +12,13 @@
 - Data Analysis & Power BI
 - Python for Data
 
+---
+
+## 🧠 What I'm Building
+- Data dashboards focused on visual storytelling
+- Real-world data analysis projects
+- Azure-based data solutions
+- 
 ---
 
 ## 📂 Featured Projects
@@ -30,5 +37,11 @@
 
 ---
 
+## 📈 Current Goal
+Building a professional data portfolio during career transition
+
+---
+
 ## 📫 Contact
+dymoob@escoladotrabalhador40.com.br
 LinkedIn: [(https://pt.linkedin.com/in/dy-moob)]
