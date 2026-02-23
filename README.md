@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Dymoob (TechPanda)
 
-<!--
-**Dymoob/Dymoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Transitioning into Data & AI using Microsoft Azure  
+📊 Focus: Data Analysis, Visualization & AI Fundamentals  
+💻 Learning: C#, Python, Power BI, Azure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Learning Path
+- C# Programming
+- Azure AI Fundamentals (AI-900)
+- Data Analysis & Power BI
+- Python for Data
+
+---
+
+## 📂 Featured Projects
+🔹 Sales Dashboard (Power BI) – coming soon  
+🔹 Music Data Analysis Project – in progress  
+🔹 Python Data Exploration – upcoming
+
+---
+
+## 🛠️ Tools & Technologies
+- Power BI
+- Python
+- C#
+- Azure
+- Git & GitHub
+
+---
+
+## 📫 Contact
+LinkedIn: [(https://pt.linkedin.com/in/dy-moob)]
