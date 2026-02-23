@@ -44,4 +44,5 @@ Building a professional data portfolio during career transition
 
 ## 📫 Contact
 dymoob@escoladotrabalhador40.com.br
-LinkedIn: [(https://pt.linkedin.com/in/dy-moob)]
+
+LinkedIn: https://pt.linkedin.com/in/dy-moob
