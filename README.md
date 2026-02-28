@@ -17,7 +17,7 @@
 - Data dashboards focused on visual storytelling
 - Real-world data analysis projects
 - Azure-based data solutions
-- 
+
 ---
 
 ## 📂 Featured Projects
