@@ -31,6 +31,7 @@ Currently studying through:
 - 🎓 IFMG — .NET Programming *(80h — from fundamentals to advanced)*
 - 🏭 SENAI
 - 💻 Daily practice with real projects on GitHub
+- 📘 Finishing my degree in Future Sciences at Unifatecie
 
 ---
 
