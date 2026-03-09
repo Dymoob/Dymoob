@@ -1,9 +1,19 @@
-# 👋 Hey, I'm Dymoob — also known as TechPanda
+# 👋 Hey, I'm Dymoob — (TechPanda)
 
 > *Dev under construction. Vocalist by soul. Stubborn enough to learn everything from scratch.*
 
 ---
 
+## 🛠️ Tools & Technologies
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
 ## 🧬 Who I am
 
 I'm Dymoob, founder and lead vocalist of the band **[Master Dy](https://open.spotify.com/intl-pt/artist/3lfScZWl1nVVmsYciBXKBu)** — and now also a dev in the making.
@@ -39,16 +49,6 @@ Currently studying through:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
 
 ## 📦 Projects
 
