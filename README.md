@@ -6,7 +6,7 @@
 
 ## 🧬 Who I am
 
-I'm Dymoob, founder and lead vocalist of the band **[Master Dy](https://open.spotify.com/artist/...)** — and now also a dev in the making.
+I'm Dymoob, founder and lead vocalist of the band **[Master Dy](https://open.spotify.com/intl-pt/artist/3lfScZWl1nVVmsYciBXKBu)** — and now also a dev in the making.
 
 I started coding seriously not long ago, but I've been editing HTML for **10+ years** behind the scenes of my own band's website. Self-taught, no formal training, solving real problems. That taught me more about logic than I ever expected.
 
@@ -16,17 +16,17 @@ Now I'm turning that instinct into proper technique — with C#, .NET, and every
 
 ## 🚀 Current Focus
 
-Software development with C# and .NET, with the goal of being **hireable as a junior dev within 4 months**.
+Software development with C# and .NET.
 
 Currently studying through:
 - 📘 Microsoft Learn
-- 🎓 IFMG — Basic .NET Programming *(40h certified course)*
+- 🎓 IFMG — .NET Programming *(80h — from fundamentals to advanced)*
 - 🏭 SENAI
 - 💻 Daily practice with real projects on GitHub
 
 ---
 
-## 🗺️ Study Plan — 6 Phases (16 weeks)
+## 🗺️ Initial Study Plan — 6 Phases (16 weeks)
 
 | Phase | Content | Weeks |
 |-------|---------|-------|
@@ -84,7 +84,7 @@ Dymoob is the artist. TechPanda is the engineer. They get along just fine.
 
 ## 📬 Contact
 
-- 📧 dymoob@escoladotrabalhador40.com.br
+- 📧 [Email](mailto:dymoob@escoladotrabalhador40.com.br)
 - 🌐 Instagram: [@dymoob](https://www.instagram.com/dymoob/)
 - 💼 LinkedIn: [dy-moob](https://pt.linkedin.com/in/dy-moob)
 
