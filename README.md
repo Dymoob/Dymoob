@@ -4,8 +4,6 @@
 
 ---
 
-## 🛠️ Tools & Technologies
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +16,7 @@
 
 I'm Dymoob, founder and lead vocalist of the band **[Master Dy](https://open.spotify.com/intl-pt/artist/3lfScZWl1nVVmsYciBXKBu)** — and now also a dev in the making.
 
-I started coding seriously not long ago, but I've been editing HTML for **10+ years** behind the scenes of my own band's website. Self-taught, no formal training, solving real problems. That taught me more about logic than I ever expected.
+I started coding seriously not long ago, but I've been basic editing HTML for **10+ years** behind the scenes of my own band's website. Self-taught, no formal training, solving real problems. That taught me more about logic than I ever expected.
 
 Now I'm turning that instinct into proper technique — with C#, .NET, and everything that comes with it.
 
@@ -77,7 +75,6 @@ Currently studying through:
 ## 🐼 About TechPanda
 
 **TechPanda** is my dev identity — the side of me that solves problems with code, builds things from scratch, and documents every step of the journey.
-
 Dymoob is the artist. TechPanda is the engineer. They get along just fine.
 
 ---
