@@ -39,7 +39,7 @@ Currently studying through:
 
 | Phase | Content | Weeks |
 |-------|---------|-------|
-| ~~1~~ | ~~Fundamentals: variables, conditionals, loops, functions~~ | ~~1–3~~ |
+| ~~1~~ | ~~Fundamentals: variables, conditionals, loops, functions~~ | **Done** |
 | **2** | **<span style="color:#00FF00">Structures: arrays, lists, dictionaries, files, try/catch</span>** | **4–6** |
 | 3 | Object-Oriented Programming: classes, inheritance, polymorphism | 7–9 |
 | 4 | Professional structures: LINQ, JSON, APIs | 10–12 |
@@ -78,6 +78,8 @@ Currently studying through:
 **TechPanda** is my dev identity — the side of me that solves problems with code, builds things from scratch, and documents every step of the journey.
 Dymoob is the artist. TechPanda is the engineer. They get along just fine.
 
+---
+![](https://komarev.com/ghpvc/?username=Dymoob&color=D870FB&style=flat-square&label=Profile+Views)
 ---
 
 ## 📬 Contact
