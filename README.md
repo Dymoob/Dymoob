@@ -39,8 +39,8 @@ Currently studying through:
 
 | Phase | Content | Weeks |
 |-------|---------|-------|
-| 1 | Fundamentals: variables, conditionals, loops, functions | 1–3 |
-| 2 | Structures: arrays, lists, dictionaries, files, try/catch | 4–6 |
+| ~~1~~ | ~~Fundamentals: variables, conditionals, loops, functions~~ | ~~1–3~~ |
+| **2** | **<span style="color:#00FF00">Structures: arrays, lists, dictionaries, files, try/catch</span>** | **4–6** |
 | 3 | Object-Oriented Programming: classes, inheritance, polymorphism | 7–9 |
 | 4 | Professional structures: LINQ, JSON, APIs | 10–12 |
 | 5 | Databases: SQL, Entity Framework, full CRUD | 13–14 |
