@@ -75,6 +75,10 @@ Simple, direct and functional fasting tracker.
 - User System with Database  
 
 ---
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=Dymoob&color=D870FB&style=flat-square&label=Profile+Views)
+---
 
 ## 📬 Contact
 
