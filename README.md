@@ -20,7 +20,7 @@
 
 I'm Dymoob, founder and lead vocalist of the band **[Master Dy](https://open.spotify.com/intl-pt/artist/3lfScZWl1nVVmsYciBXKBu)** — and now a developer focused on building real, functional systems.
 
-I’ve been working with HTML for over **10 years**, maintaining and evolving real projects. What started as necessity turned into structure, and now into engineering.
+I’ve been working with basic HTML and XML for over **5 years**, maintaining and evolving real projects. What started as necessity turned into structure, and now into engineering.
 
 Currently focused on **C#, .NET and backend development**, building systems from scratch and connecting them to real-world use cases.
 
