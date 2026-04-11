@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Dymoob
 
-> *Dev under construction. Vocalist by soul. Stubborn enough to learn everything from scratch.*
+> Junior Web Developer focused on real-world solutions  
+> HTML · XML · .NET · Fixing, building and improving live websites
 
 ---
 
@@ -12,47 +13,34 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🧬 Who I am
+## 🧬 About
 
-I'm Dymoob, founder and lead vocalist of the band **[Master Dy](https://open.spotify.com/intl-pt/artist/3lfScZWl1nVVmsYciBXKBu)** — and now a developer focused on building real, functional systems.
+I'm Dymoob — developer with **5+ years working on real websites using HTML and Blogger XML**, currently evolving into **C#, .NET and backend development**.
 
-I’ve been working with basic HTML and XML for over **5 years**, maintaining and evolving real projects. What started as necessity turned into structure, and now into engineering.
+I specialize in **fixing, optimizing and maintaining live projects**, especially content-driven and artist-focused platforms.
 
-Currently focused on **C#, .NET and backend development**, building systems from scratch and connecting them to real-world use cases.
+---
+
+## ⚙️ Freelance Services
+
+- Blogger template creation & customization  
+- HTML / CSS bug fixing  
+- Layout and responsive corrections  
+- UI / button / interaction fixes  
+- Landing page improvements (design + structure)  
+- Visual and performance optimization  
 
 ---
 
 ## 🚀 Current Focus
 
-- C# / .NET (core)
-- Backend development (APIs)
-- SQL & databases
-- JavaScript (DOM, async, integration)
-
-Learning through:
-- Microsoft Learn  
-- IFMG — .NET Programming *(80h)*  
-- SENAI  
-- Full Stack track (HTML → JS → backend → SQL)  
-- Daily hands-on projects
-- AEB - Brazilian space agency
-
----
-
-## 🗺️ Study Plan — 6 Phases
-
-| Phase | Content | Status |
-|-------|---------|--------|
-| ~~1~~ | ~~Fundamentals~~ | ✅ |
-| ~~2~~ | ~~Structures~~ | ✅ |
-| 3 | Object-Oriented Programming | 🔄 |
-| 4 | LINQ, JSON, APIs | ⏳ |
-| 5 | Databases & EF | ⏳ |
-| 6 | Final Project | ⏳ |
+- C# / .NET  
+- Backend development (APIs)  
+- SQL & databases  
+- JavaScript (DOM & integration)
 
 ---
 
@@ -60,7 +48,7 @@ Learning through:
 
 ### 🔥 In Development
 
-#### DyJum — Intermittent Fasting App  
+**DyJum — Intermittent Fasting App**  
 C# · .NET MAUI · SQLite  
 Simple, direct and functional fasting tracker.
 
@@ -75,17 +63,19 @@ Simple, direct and functional fasting tracker.
 - User System with Database  
 
 ---
-## Profile Views
+
+## 👁️ Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Dymoob&color=D870FB&style=flat-square&label=Profile+Views)
+
 ---
 
 ## 📬 Contact
 
-- 📧 [Email](mailto:dymoob@escoladotrabalhador40.com.br)  
+- 📧 dymoob@escoladotrabalhador40.com.br  
 - 🌐 Instagram: [@dymoob](https://www.instagram.com/dymoob/)  
 - 💼 LinkedIn: [dy-moob](https://pt.linkedin.com/in/dy-moob)  
 
 ---
 
-*"Leave my name in history somehow." — that's the plan.*
+*"Leave my name in history somehow."*
