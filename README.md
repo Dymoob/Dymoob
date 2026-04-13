@@ -1,10 +1,17 @@
 # 👋 Hey, I'm Dymoob
 
-> Junior Web Developer focused on real-world solutions  
-> HTML · XML · .NET · Fixing, building and improving live websites
+> Vibe Coding & Low-Code Developer (Junior)  
+> Building real solutions with HTML · XML · .NET · Supabase
 
 ---
 
+💰 **Support / Donations (RTC Wallet)**  
+`0x1f8356707aB6e30707EB5A7e20B70b4b2e170B9f`
+
+---
+
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-000000?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-F7931A?style=for-the-badge&logo=xml&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -18,7 +25,7 @@
 
 ## 🧬 About
 
-I'm Dymoob — developer with **5+ years working on real websites using HTML and Blogger XML**, currently evolving into **C#, .NET and backend development**.
+I'm Dymoob — developer with **5+ years working on real websites using HTML and Blogger XML**, currently evolving into **C#, .NET, Supabase and backend development**.
 
 I specialize in **fixing, optimizing and maintaining live projects**, especially content-driven and artist-focused platforms.
 
@@ -38,6 +45,7 @@ I specialize in **fixing, optimizing and maintaining live projects**, especially
 ## 🚀 Current Focus
 
 - C# / .NET  
+- Supabase (backend & database)  
 - Backend development (APIs)  
 - SQL & databases  
 - JavaScript (DOM & integration)
