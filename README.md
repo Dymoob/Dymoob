@@ -10,7 +10,6 @@
 
 ---
 
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-000000?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-F7931A?style=for-the-badge&logo=xml&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
