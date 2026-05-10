@@ -81,7 +81,7 @@ Simple, direct and functional fasting tracker.
 
 - 📧 dymoob@escoladotrabalhador40.com.br  
 - 🌐 Instagram: [@dymoob](https://www.instagram.com/dymoob/)  
-- 💼 LinkedIn: [dy-moob](https://pt.linkedin.com/in/dy-moob)  
+
 
 ---
 
